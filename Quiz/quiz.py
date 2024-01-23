@@ -1,0 +1,1 @@
+print("Mini Quiz-Game")
