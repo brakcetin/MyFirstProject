@@ -1,1 +1,0 @@
-print("Mini Quiz-Game")
